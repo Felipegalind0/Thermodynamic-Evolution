@@ -1,4 +1,4 @@
-# The Meaning of Life: Thermodynamic Evolution
+# The Meaning of Life: A Theory of Thermodynamic Evolution
 
 **Author:** [Your Name/Handle Here]
 
@@ -36,10 +36,10 @@ The history of life on Earth can be reframed as a series of evolutionary innovat
 
 ```mermaid
 graph TD
-    A[**Abiotic Earth**<br>(Low Dissipation)<br>Radiation, Convection] --> B[**Prokaryotic Life**<br>(e.g., Cyanobacteria)<br>Photosynthesis begins, altering atmospheric chemistry];
-    B --> C[**Eukaryotic & Multicellular Life**<br>(e.g., Plants, Fungi)<br>Vastly increased surface area, respiration, and biogeochemical cycling];
-    C --> D[**Intelligent Life & Civilization**<br>(Humans)<br>Agriculture, fire, industry. Unlocking stored geologic energy (fossil fuels)];
-    D --> E[**Artificial Intelligence & Global Technosphere?**<br>(Hypothetical Next Step)<br>Global-scale computation, optimizing energy flows at superhuman speeds];
+    A["Abiotic Earth<br>(Low Dissipation)<br>Radiation, Convection"] --> B["Prokaryotic Life<br>(e.g., Cyanobacteria)<br>Photosynthesis begins, altering atmospheric chemistry"];
+    B --> C["Eukaryotic & Multicellular Life<br>(e.g., Plants, Fungi)<br>Vastly increased surface area, respiration, and biogeochemical cycling"];
+    C --> D["Intelligent Life & Civilization<br>(Humans)<br>Agriculture, fire, industry. Unlocking stored geologic energy (fossil fuels)"];
+    D --> E["Artificial Intelligence & Global Technosphere?<br>(Hypothetical Next Step)<br>Global-scale computation, optimizing energy flows at superhuman speeds"];
 
     subgraph "Entropy Production Rate"
         direction LR
@@ -73,18 +73,18 @@ A system can increase its entropy production in two ways: by building more compl
 ```mermaid
 graph TD
     subgraph "Current State"
-        A[Complex Biosphere & Civilization<br>(High Stored Energy, Sub-maximal Dissipation)]
+        A["Complex Biosphere & Civilization<br>(High Stored Energy, Sub-maximal Dissipation)"]
     end
 
     subgraph "Path 1: Evolutionary Ascent"
-        B[**Technological Maturation**<br>AI-managed global energy grid, space colonization, fusion power.<br>Complexity increases to manage higher energy throughput.]
+        B["Technological Maturation<br>AI-managed global energy grid, space colonization, fusion power.<br>Complexity increases to manage higher energy throughput."]
     end
 
     subgraph "Path 2: Thermodyanmic Collapse"
-        C[**Climate Catastrophe & Extinction**<br>Runaway greenhouse effect, ecosystem collapse, burning of biomass.<br>Stored energy is rapidly released, complexity is destroyed.]
+        C["Climate Catastrophe & Extinction<br>Runaway greenhouse effect, ecosystem collapse, burning of biomass.<br>Stored energy is rapidly released, complexity is destroyed."]
     end
 
-    D[**Maximally Dissipative State (MDS)**<br>(e.g., Hot, barren planet with a turbulent atmosphere OR a hyper-efficient technological superorganism)]
+    D["Maximally Dissipative State (MDS)<br>(e.g., Hot, barren planet with a turbulent atmosphere OR a hyper-efficient technological superorganism)"]
 
     A -->|Innovation & Control| B
     A -->|Feedbacks & Instability| C
