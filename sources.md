@@ -1,0 +1,15 @@
+# Research Sources
+
+*   [https://pmc.ncbi.nlm.nih.gov/articles/PMC8534528/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8534528/)
+*   [https://mpra.ub.uni-muenchen.de/31139/1/MPRA_paper_31139.pdf](https://mpra.ub.uni-muenchen.de/31139/1/MPRA_paper_31139.pdf)
+*   [https://pmc.ncbi.nlm.nih.gov/articles/PMC10629395/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10629395/)
+*   [https://www.englandlab.com/uploads/7/8/0/3/7803054/nnano.2015.250__1_.pdf](https://www.englandlab.com/uploads/7/8/0/3/7803054/nnano.2015.250__1_.pdf)
+*   [https://ecologyandsociety.org/vol27/iss3/art21/](https://ecologyandsociety.org/vol27/iss3/art21/)
+*   [https://acp.copernicus.org/articles/10/9729/2010/acp-10-9729-2010.html](https://acp.copernicus.org/articles/10/9729/2010/acp-10-9729-2010.html)
+*   [https://esd.copernicus.org/articles/14/861/2023/](https://esd.copernicus.org/articles/14/861/2023/)
+*   [https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.94.015001](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.94.015001)
+*   [https://file.scirp.org/pdf/JMP20110600008_83449001.pdf](https://file.scirp.org/pdf/JMP20110600008_83449001.pdf)
+*   [https://link.springer.com/article/10.1023/B:CLIM.0000044616.34867.ec](https://link.springer.com/article/10.1023/B:CLIM.0000044616.34867.ec)
+*   [https://www.mdpi.com/1099-4300/26/5/350](https://www.mdpi.com/1099-4300/26/5/350)
+*   [https://arxiv.org/pdf/0905.3669](https://arxiv.org/pdf/0905.3669)
+*   [https://esalq.usp.br](https://esalq.usp.br)
