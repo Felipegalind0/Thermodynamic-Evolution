@@ -91,10 +91,10 @@ graph TD
     B --> D
     C --> D
 
-    style A fill:#90EE90,stroke:#333,stroke-width:2px
-    style B fill:#ADD8E6,stroke:#333,stroke-width:2px
-    style C fill:#FF6347,stroke:#333,stroke-width:2px
-    style D fill:#A9A9A9,stroke:#333,stroke-width:2px
+    style A fill:#90EE90,stroke:#333,stroke-width:2px,color:#000
+    style B fill:#ADD8E6,stroke:#333,stroke-width:2px,color:#000
+    style C fill:#FF6347,stroke:#333,stroke-width:2px,color:#000
+    style D fill:#A9A9A9,stroke:#333,stroke-width:2px,color:#000
 ```
 *Figure 2: The Two Paths to the Maximally Dissipative State. Earth can reach its thermodynamic endpoint through controlled, complex evolution or through catastrophic, simplifying collapse.*
 
