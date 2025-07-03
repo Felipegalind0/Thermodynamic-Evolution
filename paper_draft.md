@@ -31,20 +31,16 @@ graph TD
     B --> C["Eukaryotic &<br>Multicellular Life"];
     C --> D["Human Civilization"];
     D --> E["**Human-Built AI**"];
-    E --> F{ };
-    F -- "Cooperative Path" --> G["**AI-Driven Evolution**<br>(Post-Singularity)"];
-    F -- "Competitive Path" --> G;
+    E --> F["**AI-Built AI**<br>(Recursive Self-Improvement)"];
+    F --> G["**Post-Human Evolution**<br>(Unknowable Trajectory)"];
 
-    subgraph "Evolutionary Progression"
-        direction LR
-        A;B;C;D;E;F;G
-    end
-    
     subgraph "Critical Window of Human Agency"
+        D
         E
     end
 
-    subgraph "Thermodynamic Singularity"
+    subgraph "The Great AI Transition"
+        E
         F
     end
 
@@ -62,12 +58,8 @@ graph TD
     linkStyle 3 stroke-width:2px,fill:none,stroke:black;
     linkStyle 4 stroke-width:2px,fill:none,stroke:black;
     linkStyle 5 stroke-width:2px,fill:none,stroke:green;
-    linkStyle 6 stroke-width:2px,fill:none,stroke:red;
-
-    note right of D "Low Complexity<br>Low Global Dissipation"
-    note right of G "High Complexity<br>High Global Dissipation"
 ```
-*Figure 1: The Ladder of Dissipation. The trajectory shows increasing complexity and global dissipation. The emergence of AI opens a 'Critical Window of Human Agency' where our decisions will set the course for the Thermodynamic Singularity and beyond.*
+*Figure 1: The Ladder of Dissipation. The trajectory shows a general increase from low complexity and low global dissipation (left side of the diagram) to high complexity and high global dissipation (right side of the diagram). The emergence of AI opens a 'Critical Window of Human Agency' where our decisions will set the course for The Great AI Transition and beyond.*
 
 ## 4. Wealth, Power, and Entropy: The Thermodynamics of Inequality
 
