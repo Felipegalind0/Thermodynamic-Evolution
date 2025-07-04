@@ -143,3 +143,7 @@ Our challenge, as a species, is to navigate the Thermodynamic Singularity. We ex
 [9] Lucarini, V., Fraedrich, K., & Lunkeit, F. (2010). "Thermodynamic analysis of the anelastic equations of atmospheric motion." *Atmospheric Chemistry and Physics*, 10(20), 9729-9737. [https://acp.copernicus.org/articles/10/9729/2010/acp-10-9729-2010.html](https://acp.copernicus.org/articles/10/9729/2010/acp-10-9729-2010.html)
 
 [10] Perunov, N., Marsland, R. A., & England, J. L. (2016). "Statistical physics of adaptation." *Physical Review X*, 6(2), 021036. [https://www.englandlab.com/uploads/7/8/0/3/7803054/nnano.2015.250__1_.pdf](https://www.englandlab.com/uploads/7/8/0/3/7803054/nnano.2015.250__1_.pdf)
+
+[11] Pinterić, M., Thimsen, D. J., & Kleidon, A. (2022). "Recent trends in the Earth’s energy and entropy budget." *Entropy*, 24(11), 1599. [https://www.mdpi.com/1099-4300/26/5/350](https://www.mdpi.com/1099-4300/26/5/350)
+
+[12] Holling, C. S. (1973). "Resilience and stability of ecological systems." *Annual Review of Ecology and Systematics*, 4, 1-23. [https://www.ecologyandsociety.org/vol27/iss3/art21/](https://www.ecologyandsociety.org/vol27/iss3/art21/)

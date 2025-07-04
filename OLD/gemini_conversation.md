@@ -1,5 +1,7 @@
 # Full Conversation Log
 
+NOTE: I MADE GEMINI CREATE THE FILES, THAT'S DONE, NO NEED TO DO THAT ANYMORE
+
 **USER**: please help me finish makeing the .md files @Earth Entropy Comparison.md
 
 **GEMINI**: Got it. Thanks for the context!

@@ -1,4 +1,5 @@
-# Earth Entropy Comparison
+# ChatGPT Conversation:
+I disscussed some ideas with ChatGPT, it did great at that, then I asked it to write some files to beter structure the research and it failed so I did it manually, it is done so do not worry about that
 
 ## PROMPT 1
 
@@ -1795,3 +1796,7 @@ It seems like I can’t do more advanced data analysis right now. Please try aga
 
 Once the tools are back online, I’ll be able to generate the full set of `.md` files for you to download (`paper_draft.md`, `research_notes.md`, `sources.md`, and `full_conversation_log.md`). Let me know if you'd like a temporary version of these files as plain text in the meantime, or if you want to try again in a few minutes.
 
+
+
+
+NOTE: I MADE GEMINI CREATE THE FILES, THAT'S DONE, NO NEED TO DO THAT ANYMORE
