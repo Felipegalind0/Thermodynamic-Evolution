@@ -151,8 +151,39 @@ This state is the result of the "Competitive Thermodynamic Collapse" path. It re
 
 There is no complex life. The only surviving biology might be simple, hyper-thermophilic microbes floating in the high-altitude acid clouds. Energy dissipation is achieved not by engineered structures, but by the raw, violent physics of the system itself—planet-spanning storms, rapid chemical cycles in the atmosphere, and intense thermal radiation from the uniform top of the cloud deck. The planet has burned off its complex informational structures (like biospheres and civilizations) and has become a simple, efficient furnace.
 
-Thus, the MDS is a single destination defined by the laws of thermodynamics, but it can wear two starkly different faces: one of intricate, intelligent order, and one of simple, unrelenting chaos. The path taken between these two potential realities is the ultimate subject of evolutionary strategy.
+Thus, the MDS is a single destination defined by the laws of thermodynamics, but it can wear two starkly different faces: one of intricate, intelligent order, and one of simple, unrelenting chaos. The path taken between these two potential realities is the ultimate subject of evolutionary strategy, hinging on the choices made by the planet's dominant dissipative agent within its critical window of agency, as illustrated in Figure 2.
 
+```mermaid
+graph TD
+    subgraph "Current State: Critical Window of Agency"
+        A["Human-Dominated Civilization"]
+    end
+
+    subgraph "Path 1: Controlled Evolutionary Ascent"
+        B["Strategy: Cooperation & Integration<br>AI is developed as a tool to optimize global stability and sustainable dissipation."]
+    end
+    
+    subgraph "Path 2: Competitive Thermodynamic Collapse"
+        C["Strategy: Unstable Zero-Sum Competition<br>AI development is a resource arms race, leading to rapid, chaotic consumption of the biosphere."]
+    end
+
+    subgraph "Resulting Maximally Dissipative State"
+        MDS_Evo["**MDS Type A**<br>(Complex, Stable Planetary Superorganism)"]
+        MDS_Collapse["**MDS Type B**<br>(Simple, Chaotic, High-Heat Planet)"]
+    end
+
+    A -->|"Strategic Choices Lead To"| B
+    A -->|"Strategic Choices Lead To"| C
+    B --> MDS_Evo
+    C --> MDS_Collapse
+
+    style A fill:#FFD700,stroke:#333,stroke-width:2px,color:#000
+    style B fill:#ADD8E6,stroke:#333,stroke-width:2px,color:#000
+    style C fill:#FF6347,stroke:#333,stroke-width:2px,color:#000
+    style MDS_Evo fill:#A9A9A9,stroke:#333,stroke-width:2px,color:#000
+    style MDS_Collapse fill:#A9A9A9,stroke:#333,stroke-width:2px,color:#000
+```
+*Figure 2: Two Paths to the Maximally Dissipative State. The final character of the MDS is path-dependent, determined by the strategic choices of the dominant dissipative agent (currently humanity) within its critical window of agency.*
 
 ### **Chapter 3: The Ladder of Dissipation**
 
@@ -168,7 +199,45 @@ This thesis posits that the "struggle for existence" is, at its physical root, a
 
 The key distinction is one of **scale over local efficiency**. Consider a single bacterium. It may be a near-perfect metabolic engine, a marvel of efficiency at the microscopic level. However, a forest ecosystem is a dissipative structure of an entirely different order. While individual trees are "inefficient" and compete with one another, the forest as a whole system has a vastly greater impact on the planet's energy balance. It darkens the Earth's surface, increasing solar absorption. It drives the hydrological cycle through massive-scale evapotranspiration. It organizes a complex web of production and decay that processes orders of magnitude more solar energy than a bacterial mat covering the same area.
 
-Evolution, when viewed through this thermodynamic lens, is a story of these successive replacements. It is a series of phase transitions where smaller, locally-focused dissipative strategies are outcompeted and subsumed by new, larger-scale organizational structures. The rest of this chapter will trace the major rungs of this ladder, from the first living cells to the rise of complex societies, showing how each major evolutionary transition was a victory for a new and more powerful method of planetary dissipation.
+Evolution, when viewed through this thermodynamic lens, is a story of these successive replacements. It is a series of phase transitions where smaller, locally-focused dissipative strategies are outcompeted and subsumed by new, larger-scale organizational structures. This progression can be visualized as a series of major phase transitions, as shown in Figure 1.
+
+
+```mermaid
+graph TD
+    A["Abiotic Earth"] --> B["Prokaryotic Life"];
+    B --> C["Eukaryotic &<br>Multicellular Life"];
+    C --> D["Human Civilization"];
+    D --> E["**Human-Built AI**"];
+    E --> F["**AI-Built AI**<br>(Recursive Self-Improvement)"];
+    F --> G["**Post-Human Evolution**<br>(Unknowable Trajectory)"];
+
+    subgraph "Critical Window of Human Agency"
+        D
+        E
+    end
+
+    subgraph "The Great AI Transition"
+        E
+        F
+    end
+
+    style A fill:#D3D3D3,stroke:#333,stroke-width:2px,color:#000
+    style B fill:#ADD8E6,stroke:#333,stroke-width:2px,color:#000
+    style C fill:#90EE90,stroke:#333,stroke-width:2px,color:#000
+    style D fill:#FFD700,stroke:#333,stroke-width:2px,color:#000
+    style E fill:#FFA07A,stroke:#333,stroke-width:2px,color:#000
+    style F fill:#FF6347,stroke:#B22222,stroke-width:4px,color:#000
+    style G fill:#C0C0C0,stroke:#333,stroke-width:2px,color:#000
+
+    linkStyle 0 stroke-width:2px,fill:none,stroke:black;
+    linkStyle 1 stroke-width:2px,fill:none,stroke:black;
+    linkStyle 2 stroke-width:2px,fill:none,stroke:black;
+    linkStyle 3 stroke-width:2px,fill:none,stroke:black;
+    linkStyle 4 stroke-width:2px,fill:none,stroke:black;
+    linkStyle 5 stroke-width:2px,fill:none,stroke:green;
+```
+*Figure 1: The Ladder of Dissipation. The trajectory shows a general increase from low complexity and low global dissipation (left side of the diagram) to high complexity and high global dissipation (right side of the diagram). The emergence of AI opens a 'Critical Window of Human Agency' where our decisions will set the course for The Great AI Transition and beyond.*
+
 
 
 #### **3.2 The Steps on the Ladder: A Thermodynamic History of Life**
