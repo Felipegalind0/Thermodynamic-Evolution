@@ -311,6 +311,9 @@ This chapter will argue that the free market acts as a planetary-scale discovery
 
 Before we explore the full implications of our hypotheses, we must establish their empirical foundation. If economic activity is indeed a proxy for dissipation, and if wealth is a measure of command over that activity, then we should be able to find a clear, quantifiable signature of this relationship in the real world. The data, from the global scale down to the individual, confirms this prediction with startling clarity.
 
+![graph showing linear relationship between energy consumption and GDP](Figure_3_Energy_Economy_Correlation.png)
+*Figure 3: The linear relationship between energy consumption and GDP. This graph illustrates the strong correlation between a nation's per capita energy consumption and its GDP, supporting the hypothesis that economic activity is fundamentally tied to energy dissipation.*
+
 **The Macro-Scale: The Iron Law of Energy and GDP**
 
 At the highest level of organization—the nation-state—there exists a robust, long-documented positive correlation between a country's per capita energy consumption and its Gross Domestic Product (GDP). While the exact relationship can be complex, and advanced economies may become more efficient in the energy required per dollar of GDP, no technological society has ever demonstrated a sustained, *absolute decoupling* of economic growth from a massive and growing energy footprint. Advanced industrial life is fundamentally energy-intensive. This provides the first layer of empirical bedrock: the total economic output of a nation, its "value creation," is physically inseparable from its rate of energy dissipation.

@@ -85,3 +85,9 @@ These are improvements to the clarity and professionalism of the paper and repos
         The README.md lists q0.md as "The initial unfiltered conversation with an LLM that sparked this line of inquiry."
 
         Action: Consider if this is necessary for the public-facing repository. The OLD/ directory already serves as a good archive. This is a minor stylistic choice.
+
+
+
+
+
+TODO: add something about what can be a MDS, like a GBS (gravitationally bound system) or come up with a better definition of what it needs to be to evolve to a MDS. 
