@@ -10,7 +10,7 @@ This work is presented as a complete intellectual project, including both the fu
 
 ## The Core Thesis
 
-The theory, detailed in `Theory_Of_Thermodynamic_Evolution.md`, is built on a series of interconnected hypotheses:
+The theory, detailed in [Theory_Of_Thermodynamic_Evolution.md](Theory_Of_Thermodynamic_Evolution.md), is built on a series of interconnected hypotheses:
 
 *   **The Ladder of Dissipation:** Biological evolution is a directional and accelerating progression that selects for agents of increasing scale and dissipative capacity, moving the planetary system toward its **Maximally Dissipative State (MDS)**.
 *   **The Thermodynamics of Civilization:** Economic principles (like the wealth inequality `r > g`) and geopolitical conflict are not merely social phenomena but are macroscopic expressions of this same physical drive for dissipative dominance.
